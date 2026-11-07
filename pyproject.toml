@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "observa-core"
+version = "0.1.0"
+description = "DevOps observability platform"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
